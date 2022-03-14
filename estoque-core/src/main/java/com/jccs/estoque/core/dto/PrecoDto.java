@@ -4,17 +4,17 @@ import java.io.Serializable;
 
 public class PrecoDto implements Serializable
 {
-	public String codigoproduto;
+	public String codigoProduto;
 	public double preco;
 
-	public String getCodigoproduto()
+	public String getCodigoProduto()
 	{
-		return codigoproduto;
+		return codigoProduto;
 	}
 
-	public void setCodigoproduto(String codigoproduto)
+	public void setCodigoProduto(String codigoProduto)
 	{
-		this.codigoproduto = codigoproduto;
+		this.codigoProduto = codigoProduto;
 	}
 
 	public double getPreco()

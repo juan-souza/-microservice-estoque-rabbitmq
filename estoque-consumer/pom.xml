@@ -31,9 +31,10 @@
             <artifactId>jackson-databind</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.librabbitmq</groupId>
-            <artifactId>lib-rabbitmq</artifactId>
+            <groupId>com.jccs.estoque</groupId>
+            <artifactId>estoque-core</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 
